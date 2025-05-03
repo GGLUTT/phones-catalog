@@ -2,7 +2,7 @@
 
 A responsive web application for browsing and exploring mobile phones. This project showcases a collection of phones with detailed specifications, allowing users to compare features and make informed purchasing decisions.
 
-![Phones Catalog Screenshot](https://placeholder-for-screenshot.png)
+![Phones Catalog Screenshot](https://i.imgur.com/1T3519G.png)
 
 ## Live Preview
 
